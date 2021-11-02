@@ -1,0 +1,394 @@
+L 10/30/2021 - 12:33:41: Log file started (file "logs\L192_168_001_151_27015_202110301233_001.log") (game "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo") (version "8378")
+L 10/30/2021 - 12:33:41: Loading map "workshop/2638333783/gameonkfc_limited_edition_aim_botz"
+L 10/30/2021 - 12:33:41: server cvars start
+L 10/30/2021 - 12:33:41: "cash_player_killed_teammate" = "-300"
+L 10/30/2021 - 12:33:41: "sv_maxspeed" = "320"
+L 10/30/2021 - 12:33:41: "cash_player_respawn_amount" = "0"
+L 10/30/2021 - 12:33:41: "cash_team_winner_bonus_consecutive_rounds" = "0"
+L 10/30/2021 - 12:33:41: "cash_team_rescued_hostage" = "0"
+L 10/30/2021 - 12:33:41: "cash_team_win_by_defusing_bomb" = "3250"
+L 10/30/2021 - 12:33:41: "sv_rollangle" = "0"
+L 10/30/2021 - 12:33:41: "r_AirboatViewZHeight" = "0.0"
+L 10/30/2021 - 12:33:41: "sv_cheats" = "1"
+L 10/30/2021 - 12:33:41: "r_VehicleViewDampen" = "1"
+L 10/30/2021 - 12:33:41: "mp_allowNPCs" = "1"
+L 10/30/2021 - 12:33:41: "mp_tournament" = "0"
+L 10/30/2021 - 12:33:41: "sv_vote_issue_pause_match_spec_only" = "0"
+L 10/30/2021 - 12:33:41: "sv_spec_hear" = "1"
+L 10/30/2021 - 12:33:41: "cash_player_interact_with_hostage" = "150"
+L 10/30/2021 - 12:33:41: "mp_flashlight" = "0"
+L 10/30/2021 - 12:33:41: "mp_maxrounds" = "30"
+L 10/30/2021 - 12:33:41: "sv_tags" = ""
+L 10/30/2021 - 12:33:41: "sv_stepsize" = "18"
+L 10/30/2021 - 12:33:41: "mp_teamlist" = "hgrunt;scientist"
+L 10/30/2021 - 12:33:41: "sv_alltalk" = "0"
+L 10/30/2021 - 12:33:41: "mp_footsteps" = "1"
+L 10/30/2021 - 12:33:41: "sv_noclipaccelerate" = "5"
+L 10/30/2021 - 12:33:41: "sv_accelerate_debug_speed" = "0"
+L 10/30/2021 - 12:33:41: "sv_wateraccelerate" = "10"
+L 10/30/2021 - 12:33:41: "mp_autocrosshair" = "1"
+L 10/30/2021 - 12:33:41: "mp_stalemate_enable" = "0"
+L 10/30/2021 - 12:33:41: "cash_team_elimination_bomb_map" = "3250"
+L 10/30/2021 - 12:33:41: "cash_player_get_killed" = "0"
+L 10/30/2021 - 12:33:41: "mp_roundtime_defuse" = "60"
+L 10/30/2021 - 12:33:41: "sv_autobuyammo" = "0"
+L 10/30/2021 - 12:33:41: "sv_rollspeed" = "200"
+L 10/30/2021 - 12:33:41: "sv_airaccelerate" = "12"
+L 10/30/2021 - 12:33:41: "mp_teams_unbalance_limit" = "1"
+L 10/30/2021 - 12:33:41: "sv_show_team_equipment_prohibit" = "0"
+L 10/30/2021 - 12:33:41: "mp_timelimit" = "5"
+L 10/30/2021 - 12:33:41: "cash_team_loser_bonus" = "1400"
+L 10/30/2021 - 12:33:41: "sv_deadtalk" = "0"
+L 10/30/2021 - 12:33:41: "cash_player_rescued_hostage" = "1000"
+L 10/30/2021 - 12:33:41: "sv_waterfriction" = "1"
+L 10/30/2021 - 12:33:41: "sv_competitive_official_5v5" = "0"
+L 10/30/2021 - 12:33:41: "sv_steamgroup" = ""
+L 10/30/2021 - 12:33:41: "cash_player_killed_enemy_default" = "300"
+L 10/30/2021 - 12:33:41: "coop" = "0"
+L 10/30/2021 - 12:33:41: "mp_respawnwavetime" = "10.0"
+L 10/30/2021 - 12:33:41: "sv_teamid_overhead" = "1"
+L 10/30/2021 - 12:33:41: "tv_enable1" = "0"
+L 10/30/2021 - 12:33:41: "nextlevel" = "workshop/2638333783/gameonkfc_limited_edition_aim_botz"
+L 10/30/2021 - 12:33:41: "sv_stopspeed" = "80"
+L 10/30/2021 - 12:33:41: "sv_specaccelerate" = "5"
+L 10/30/2021 - 12:33:41: "deathmatch" = "1"
+L 10/30/2021 - 12:33:41: "tv_enable" = "0"
+L 10/30/2021 - 12:33:41: "mp_falldamage" = "0"
+L 10/30/2021 - 12:33:41: "mp_roundtime_hostage" = "60"
+L 10/30/2021 - 12:33:41: "mp_freezetime" = "0"
+L 10/30/2021 - 12:33:41: "mp_teammates_are_enemies" = "0"
+L 10/30/2021 - 12:33:41: "sv_accelerate_use_weapon_speed" = "1"
+L 10/30/2021 - 12:33:41: "sv_voiceenable" = "1"
+L 10/30/2021 - 12:33:41: "sv_teamid_overhead_always_prohibit" = "0"
+L 10/30/2021 - 12:33:41: "sv_bounce" = "0"
+L 10/30/2021 - 12:33:41: "r_AirboatViewDampenFreq" = "7.0"
+L 10/30/2021 - 12:33:41: "mp_disable_respawn_times" = "0"
+L 10/30/2021 - 12:33:41: "mp_weaponstay" = "0"
+L 10/30/2021 - 12:33:41: "mp_hostagepenalty" = "10"
+L 10/30/2021 - 12:33:41: "tv_advertise_watchable" = "0"
+L 10/30/2021 - 12:33:41: "mp_friendlyfire" = "0"
+L 10/30/2021 - 12:33:41: "sv_noclipspeed" = "5"
+L 10/30/2021 - 12:33:41: "cash_team_hostage_interaction" = "500"
+L 10/30/2021 - 12:33:41: "sv_allchat" = "1"
+L 10/30/2021 - 12:33:41: "cash_team_win_by_time_running_out_bomb" = "3250"
+L 10/30/2021 - 12:33:41: "mp_buy_during_immunity" = "0"
+L 10/30/2021 - 12:33:41: "cash_player_killed_enemy_factor" = "1"
+L 10/30/2021 - 12:33:41: "r_JeepViewDampenDamp" = "1.0"
+L 10/30/2021 - 12:33:41: "mp_c4timer" = "40"
+L 10/30/2021 - 12:33:41: "r_AirboatViewDampenDamp" = "1.0"
+L 10/30/2021 - 12:33:41: "sv_competitive_minspec" = "1"
+L 10/30/2021 - 12:33:41: "sv_max_allowed_net_graph" = "1"
+L 10/30/2021 - 12:33:41: "mp_stalemate_at_timelimit" = "0"
+L 10/30/2021 - 12:33:41: "mp_limitteams" = "0"
+L 10/30/2021 - 12:33:41: "sv_footsteps" = "1"
+L 10/30/2021 - 12:33:41: "sv_vote_issue_kick_allowed" = "1"
+L 10/30/2021 - 12:33:41: "cash_team_survive_guardian_wave" = "0"
+L 10/30/2021 - 12:33:41: "tv_relaypassword" = ""
+L 10/30/2021 - 12:33:41: "mp_teamplay" = "0"
+L 10/30/2021 - 12:33:41: "cash_team_terrorist_win_bomb" = "3500"
+L 10/30/2021 - 12:33:41: "cash_team_elimination_hostage_map_t" = "1000"
+L 10/30/2021 - 12:33:41: "r_JeepViewDampenFreq" = "7.0"
+L 10/30/2021 - 12:33:41: "sv_specnoclip" = "1"
+L 10/30/2021 - 12:33:41: "sv_friction" = "5.2"
+L 10/30/2021 - 12:33:41: "cash_team_win_by_time_running_out_hostage" = "3250"
+L 10/30/2021 - 12:33:41: "cash_player_bomb_planted" = "300"
+L 10/30/2021 - 12:33:41: "mp_autoteambalance" = "0"
+L 10/30/2021 - 12:33:41: "sv_contact" = ""
+L 10/30/2021 - 12:33:41: "sv_vote_kick_ban_duration" = "15"
+L 10/30/2021 - 12:33:41: "cash_player_bomb_defused" = "300"
+L 10/30/2021 - 12:33:41: "mp_roundtime" = "60"
+L 10/30/2021 - 12:33:41: "sv_kick_ban_duration" = "15"
+L 10/30/2021 - 12:33:41: "cash_team_planted_bomb_but_defused" = "800"
+L 10/30/2021 - 12:33:41: "cash_player_killed_hostage" = "-1000"
+L 10/30/2021 - 12:33:41: "sv_vote_issue_loadbackup_allowed" = "1"
+L 10/30/2021 - 12:33:41: "nextmode" = ""
+L 10/30/2021 - 12:33:41: "mp_fraglimit" = "0"
+L 10/30/2021 - 12:33:41: "cash_team_bonus_shorthanded" = "0"
+L 10/30/2021 - 12:33:41: "mp_forcerespawn" = "1"
+L 10/30/2021 - 12:33:41: "mp_buy_anywhere" = "0"
+L 10/30/2021 - 12:33:41: "sv_accelerate" = "5.5"
+L 10/30/2021 - 12:33:41: "mp_winlimit" = "0"
+L 10/30/2021 - 12:33:41: "sv_gravity" = "800"
+L 10/30/2021 - 12:33:41: "sv_password" = ""
+L 10/30/2021 - 12:33:41: "cash_team_elimination_hostage_map_ct" = "2000"
+L 10/30/2021 - 12:33:41: "cash_team_win_by_hostage_rescue" = "3500"
+L 10/30/2021 - 12:33:41: "sv_vote_issue_loadbackup_spec_only" = "0"
+L 10/30/2021 - 12:33:41: "r_JeepViewZHeight" = "10.0"
+L 10/30/2021 - 12:33:41: "cash_team_loser_bonus_consecutive_rounds" = "500"
+L 10/30/2021 - 12:33:41: "cash_player_damage_hostage" = "-30"
+L 10/30/2021 - 12:33:41: "cash_team_hostage_alive" = "0"
+L 10/30/2021 - 12:33:41: "tv_password" = ""
+L 10/30/2021 - 12:33:41: "sv_specspeed" = "3"
+L 10/30/2021 - 12:33:41: server cvars end
+L 10/30/2021 - 12:33:46: Started map "workshop/2638333783/gameonkfc_limited_edition_aim_botz" (CRC "1583761078")
+L 10/30/2021 - 12:33:46: server_cvar: "cash_team_survive_guardian_wave" "1000"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_autoteambalance" "1"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_freezetime" "6"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_limitteams" "2"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_maxrounds" "0"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_roundtime" "5"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_roundtime_defuse" "0"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_roundtime_hostage" "0"
+L 10/30/2021 - 12:33:46: server_cvar: "nextlevel" ""
+L 10/30/2021 - 12:33:46: server_cvar: "mp_freezetime" "0"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_limitteams" "0"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_autoteambalance" "0"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_maxrounds" "30"
+L 10/30/2021 - 12:33:46: World triggered "Round_Start"
+L 10/30/2021 - 12:33:46: server_cvar: "cash_team_survive_guardian_wave" "0"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_roundtime" "60"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_roundtime_hostage" "60"
+L 10/30/2021 - 12:33:46: server_cvar: "mp_roundtime_defuse" "60"
+L 10/30/2021 - 12:33:47: "i.am.noob123<42><STEAM_1:1:194419837><>" connected, address ""
+L 10/30/2021 - 12:33:47: "i.am.noob123<42><STEAM_1:1:194419837><>" STEAM USERID validated
+L 10/30/2021 - 12:33:49: "i.am.noob123<42><STEAM_1:1:194419837><>" entered the game
+L 10/30/2021 - 12:33:49: "i.am.noob123<42><STEAM_1:1:194419837>" switched from team <Unassigned> to <TERRORIST>
+L 10/30/2021 - 12:33:49: "Aim Botz        <43><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "Aim Botz        <43><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: World triggered "Game_Commencing"
+L 10/30/2021 - 12:33:49: "Aim Botz        <43><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "Aim Botz       <44><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "Aim Botz       <44><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "Aim Botz       <44><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "Recoil Master   <45><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "Recoil Master   <45><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "Recoil Master   <45><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "uLLeticaL<46><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "uLLeticaL<46><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "uLLeticaL<46><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "uLLeticaL  <47><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "uLLeticaL  <47><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "uLLeticaL  <47><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "Aim Botz         <48><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "Aim Botz         <48><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "Aim Botz         <48><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "Aim Botz   <49><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "Aim Botz   <49><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "Aim Botz   <49><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "Drink water<50><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "Drink water<50><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "Drink water<50><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "KEEP IT UP!<51><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "KEEP IT UP!<51><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "KEEP IT UP!<51><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "Aim Botz    <52><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "Aim Botz    <52><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "Aim Botz    <52><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "Aim Botz <53><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "Aim Botz <53><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "Aim Botz <53><BOT><>" entered the game
+L 10/30/2021 - 12:33:49: "is not impressed!<54><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:49: "is not impressed!<54><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:49: "is not impressed!<54><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Recoil Master<55><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Recoil Master<55><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Recoil Master<55><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Aim Botz               <56><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Aim Botz               <56><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Aim Botz               <56><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Aim Botz  <57><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Aim Botz  <57><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Aim Botz  <57><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "is impressed!<58><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "is impressed!<58><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "is impressed!<58><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Aim Botz          <59><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Aim Botz          <59><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Aim Botz          <59><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Recoil Master  <60><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Recoil Master  <60><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Recoil Master  <60><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "uLLeticaL <61><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "uLLeticaL <61><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "uLLeticaL <61><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "harder please!<62><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "harder please!<62><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "harder please!<62><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Aim Botz            <63><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Aim Botz            <63><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Aim Botz            <63><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Aim Botz           <64><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Aim Botz           <64><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Aim Botz           <64><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Aim Botz     <65><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Aim Botz     <65><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Aim Botz     <65><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "Aim Botz                <66><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "Aim Botz                <66><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "Aim Botz                <66><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: "uLLeticaL   <67><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:50: "uLLeticaL   <67><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:50: "uLLeticaL   <67><BOT><>" entered the game
+L 10/30/2021 - 12:33:50: Starting Freeze period
+L 10/30/2021 - 12:33:50: World triggered "Match_Start" on "workshop/2638333783/gameonkfc_limited_edition_aim_botz"
+L 10/30/2021 - 12:33:50: MatchStatus: Team "CT" is unset.
+L 10/30/2021 - 12:33:50: MatchStatus: Team "TERRORIST" is unset.
+L 10/30/2021 - 12:33:50: MatchStatus: Score: 0:0 on map "workshop/2638333783/gameonkfc_limited_edition_aim_botz" RoundsPlayed: 0
+L 10/30/2021 - 12:33:50: "Aim Botz        <43><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz        <43><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: World triggered "Round_Start"
+L 10/30/2021 - 12:33:50: "Aim Botz       <44><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz       <44><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Recoil Master   <45><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Recoil Master   <45><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "uLLeticaL<46><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "uLLeticaL<46><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "uLLeticaL  <47><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "uLLeticaL  <47><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz         <48><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz         <48><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz   <49><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz   <49><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Drink water<50><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Drink water<50><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "KEEP IT UP!<51><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "KEEP IT UP!<51><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz    <52><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz    <52><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz <53><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz <53><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "is not impressed!<54><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "is not impressed!<54><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Recoil Master<55><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Recoil Master<55><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz               <56><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz               <56><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz  <57><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz  <57><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "is impressed!<58><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "is impressed!<58><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz          <59><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz          <59><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Recoil Master  <60><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Recoil Master  <60><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "uLLeticaL <61><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "uLLeticaL <61><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "harder please!<62><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "harder please!<62><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz            <63><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz            <63><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz           <64><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz           <64><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz     <65><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz     <65><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "Aim Botz                <66><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "Aim Botz                <66><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: "uLLeticaL   <67><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:50: "uLLeticaL   <67><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:50: Starting Freeze period
+L 10/30/2021 - 12:33:50: World triggered "Match_Start" on "workshop/2638333783/gameonkfc_limited_edition_aim_botz"
+L 10/30/2021 - 12:33:50: MatchStatus: Team "CT" is unset.
+L 10/30/2021 - 12:33:50: MatchStatus: Team "TERRORIST" is unset.
+L 10/30/2021 - 12:33:50: MatchStatus: Score: 0:0 on map "workshop/2638333783/gameonkfc_limited_edition_aim_botz" RoundsPlayed: 0
+L 10/30/2021 - 12:33:50: World triggered "Round_Start"
+L 10/30/2021 - 12:33:51: "Aim Botz         <68><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "Aim Botz         <68><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "Aim Botz         <68><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "You can't hit me!<69><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "You can't hit me!<69><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "You can't hit me!<69><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "Aim Botz             <70><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "Aim Botz             <70><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "Aim Botz             <70><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "Recoil Master   <71><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "Recoil Master   <71><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "Recoil Master   <71><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "Recoil Master<72><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "Recoil Master<72><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "Recoil Master<72><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "KEEP IT UP!<73><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "KEEP IT UP!<73><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "KEEP IT UP!<73><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "Aim Botz            <74><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "Aim Botz            <74><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "Aim Botz            <74><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "Aim Botz   <75><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "Aim Botz   <75><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "Aim Botz   <75><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "H2O<76><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "H2O<76><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "H2O<76><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "uLLeticaL  <77><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "uLLeticaL  <77><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "uLLeticaL  <77><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "is impressed!<78><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "is impressed!<78><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "is impressed!<78><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "uLLeticaL <79><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "uLLeticaL <79><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "uLLeticaL <79><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "Winners train, Losers complain.<80><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "Winners train, Losers complain.<80><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "Winners train, Losers complain.<80><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "Aim Botz                <81><BOT><>" connected, address ""
+L 10/30/2021 - 12:33:51: "Aim Botz                <81><BOT>" switched from team <Unassigned> to <CT>
+L 10/30/2021 - 12:33:51: "Aim Botz                <81><BOT><>" entered the game
+L 10/30/2021 - 12:33:51: "Aim Botz         <68><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:51: "Aim Botz         <68><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:33:51: "You can't hit me!<69><BOT><CT>" disconnected (reason "Kicked by Console")
+L 10/30/2021 - 12:33:51: "You can't hit me!<69><BOT>" switched from team <CT> to <Unassigned>
+L 10/30/2021 - 12:34:06: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-19 -120 0] killed "Aim Botz            <74><BOT><CT>" [-128 -448 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:08: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-114 -43 0] killed "uLLeticaL <79><BOT><CT>" [-448 -128 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:10: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-114 -43 0] killed "is impressed!<78><BOT><CT>" [-1152 256 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:18: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [28 188 0] killed "H2O<76><BOT><CT>" [576 384 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:20: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [28 188 0] killed "Aim Botz                <81><BOT><CT>" [1152 0 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:21: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [28 188 0] killed "Aim Botz            <74><BOT><CT>" [768 0 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:27: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [28 188 0] killed "Aim Botz             <70><BOT><CT>" [128 448 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:31: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-26 196 0] killed "KEEP IT UP!<73><BOT><CT>" [0 1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:38: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-260 231 0] killed "Aim Botz            <74><BOT><CT>" [-1152 512 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:39: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-260 231 0] killed "Recoil Master   <71><BOT><CT>" [-1152 832 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:41: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-260 231 0] killed "uLLeticaL  <77><BOT><CT>" [-384 576 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:50: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [96 -133 0] killed "Aim Botz                <81><BOT><CT>" [128 -448 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:55: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [54 -212 0] killed "Aim Botz             <70><BOT><CT>" [-256 -1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:34:58: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [54 -212 0] killed "Recoil Master   <71><BOT><CT>" [-832 -1152 64] with "ak47"
+L 10/30/2021 - 12:35:00: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [54 -212 0] killed "KEEP IT UP!<73><BOT><CT>" [-384 -576 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:03: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-102 -178 0] killed "is impressed!<78><BOT><CT>" [-1152 -256 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:14: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [177 230 0] killed "H2O<76><BOT><CT>" [1152 512 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:23: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [271 187 0] killed "uLLeticaL  <77><BOT><CT>" [1152 -256 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:26: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [271 187 0] killed "KEEP IT UP!<73><BOT><CT>" [1152 -512 64] with "ak47"
+L 10/30/2021 - 12:35:28: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [254 36 0] killed "is impressed!<78><BOT><CT>" [512 -1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:35: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [116 -199 0] killed "H2O<76><BOT><CT>" [-512 -1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:39: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [116 -199 0] killed "KEEP IT UP!<73><BOT><CT>" [256 -1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:43: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [274 -247 0] killed "KEEP IT UP!<73><BOT><CT>" [832 -1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:47: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [261 56 0] killed "H2O<76><BOT><CT>" [448 128 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:57: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [212 312 0] killed "Aim Botz                <81><BOT><CT>" [384 576 64] with "ak47" (headshot)
+L 10/30/2021 - 12:35:58: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [212 312 0] killed "Aim Botz             <70><BOT><CT>" [512 1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:00: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [212 312 0] killed "Winners train, Losers complain.<80><BOT><CT>" [832 1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:07: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [113 301 0] killed "Aim Botz            <74><BOT><CT>" [0 768 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:17: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-290 282 0] killed "Aim Botz            <74><BOT><CT>" [-832 1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:29: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-290 282 0] killed "Recoil Master   <71><BOT><CT>" [-576 384 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:31: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-292 149 0] killed "Aim Botz            <74><BOT><CT>" [-448 128 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:32: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-292 149 0] killed "uLLeticaL <79><BOT><CT>" [-1152 0 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:37: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-332 107 0] killed "Aim Botz            <74><BOT><CT>" [-768 0 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:39: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-249 -48 0] killed "uLLeticaL <79><BOT><CT>" [-576 -384 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:40: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-249 -48 0] killed "Winners train, Losers complain.<80><BOT><CT>" [-1152 -832 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:41: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-249 -48 0] killed "is impressed!<78><BOT><CT>" [-1152 -512 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:49: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [137 -236 0] killed "Aim Botz                <81><BOT><CT>" [384 -576 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:52: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [247 60 0] killed "H2O<76><BOT><CT>" [1152 256 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:54: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [247 60 0] killed "is impressed!<78><BOT><CT>" [960 128 64] with "ak47" (headshot)
+L 10/30/2021 - 12:36:56: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [247 60 0] killed "Aim Botz                <81><BOT><CT>" [960 384 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:05: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [35 204 0] killed "Aim Botz            <74><BOT><CT>" [-128 448 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:14: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [35 204 0] killed "Aim Botz   <75><BOT><CT>" [-512 1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:15: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [35 204 0] killed "Recoil Master<72><BOT><CT>" [-256 1152 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:19: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-9 198 0] killed "Aim Botz   <75><BOT><CT>" [-640 960 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:31: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-104 -124 0] killed "Aim Botz                <81><BOT><CT>" [-640 -960 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:34: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [-104 -124 0] killed "is impressed!<78><BOT><CT>" [-960 -384 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:36: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [43 -257 0] killed "H2O<76><BOT><CT>" [-128 -960 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:39: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [153 -242 0] killed "Aim Botz                <81><BOT><CT>" [384 -960 64] with "ak47" (headshot)
+L 10/30/2021 - 12:37:43: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" disconnected (reason "Disconnect")
+L 10/30/2021 - 12:37:43: "i.am.noob123<42><STEAM_1:1:194419837><TERRORIST>" [153 -242 64] committed suicide with "world"
+L 10/30/2021 - 12:37:43: "i.am.noob123<42><STEAM_1:1:194419837>" switched from team <TERRORIST> to <Unassigned>
+L 10/30/2021 - 12:37:43: "Aim Botz                <81><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "Winners train, Losers complain.<80><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "uLLeticaL <79><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "is impressed!<78><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "uLLeticaL  <77><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "H2O<76><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "Aim Botz   <75><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "Aim Botz            <74><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "KEEP IT UP!<73><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "Recoil Master<72><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "Recoil Master   <71><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:43: "Aim Botz             <70><BOT><>" disconnected (reason "Server shutting down")
+L 10/30/2021 - 12:37:44: server_message: "quit"
+L 10/30/2021 - 12:37:44: Log file closed
