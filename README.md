@@ -1,5 +1,6 @@
- CSGO Proof Of Concept: Installation:
+** CSGO Proof Of Concept: **
 
+Installation:
 To run the CS:GO proof of concept code there a few applications that need to be installed on the sender machine -
 1. Steam Client
 2. Counter Strike : Global Offensive
@@ -19,7 +20,7 @@ https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Level_
 The base map for this project was created using this youtube video -
 https://www.youtube.com/watch?v=dhcoHQcrYKA
       
- Message Encoding:
+Message Encoding:
 For the message encoding the following steps need to be followed -
 1. An entity is placed on the map with class “info_player_terrorist”.
 2. For ease of use the entity can be named based on their order in the message i.e. first
@@ -41,7 +42,7 @@ And enable the “fire once only” field. This will enable the next bot once th
 For more help on triggers - this video might be helpful -
 https://www.youtube.com/watch?v=IUOA0JlihIQ
  
- Map Publication:
+Map Publication:
 1. To publish the map, open CS:GO and access the console by clicking on “~”.
 2. In the console, enter “workshop_publish”.
 3. Click map on the top right corner and click add on the bottom right.
@@ -74,7 +75,7 @@ ent_fire !picker addoutput “modescale 0”
 4. Once all the bots have been eliminated the game will end with a rewards page. The
 game can now be closed.
   
- Python Script:
+Python Script:
 Once the logs have been collected from the game, a python script parses through these to decode the message from the map.
 The following code snippet reads the logs one line at a time and checks the z-axis for the kill location. Since the bots are stationary, their spawn and death locations are the same.
 while True:
